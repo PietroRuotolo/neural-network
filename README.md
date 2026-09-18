@@ -129,13 +129,6 @@ O notebook completo roda direto no **Google Colab** (recomendado, pela GPU gratu
  
 ---
  
-## 🚀 Próximos passos
- 
-- [ ] Substituir a camada densa por uma **rede convolucional (CNN)** — o salto natural para >99% no MNIST
-- [ ] **Learning rate decay** — passo maior no início, refinado no fim
-- [ ] Técnicas anti-overfitting (**dropout**, regularização) para redes maiores
-- [ ] Exportar os pesos e servir o modelo num **app web** onde o usuário desenha o dígito
----
  
 ## 👤 Autor
  
